@@ -1,2 +1,2 @@
 # demo
-Demo for getting started
+Demo for getting started with github
